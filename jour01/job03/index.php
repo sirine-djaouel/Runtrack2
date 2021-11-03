@@ -18,7 +18,7 @@ $bool = true;
 
 
 <table>
-
+<tbody>
 
 
     <thead>
@@ -53,6 +53,6 @@ $bool = true;
             <td><?php echo $bool?></td>
         </tr>
     
-
+</tbody>
 </table>
 </html>

@@ -12,9 +12,4 @@ les deux manières*/
 
 //car je n'ai pas compris la consignes 
 
-
-
-
-
-
 ?>
